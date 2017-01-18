@@ -1,0 +1,12 @@
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Client\bin\Debug\Network01_Client.exe.config
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Client\bin\Debug\Network01_Client.exe
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Client\bin\Debug\Network01_Client.pdb
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Client\obj\Debug\Network01_Client.csprojResolveAssemblyReference.cache
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Client\obj\Debug\Network01_Client.exe
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Client\obj\Debug\Network01_Client.pdb
+C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Network01_Client\bin\Debug\Network01_Client.exe.config
+C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Network01_Client\bin\Debug\Network01_Client.exe
+C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Network01_Client\bin\Debug\Network01_Client.pdb
+C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Network01_Client\obj\Debug\Network01_Client.csprojResolveAssemblyReference.cache
+C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Network01_Client\obj\Debug\Network01_Client.exe
+C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Network01_Client\obj\Debug\Network01_Client.pdb

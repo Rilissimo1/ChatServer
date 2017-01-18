@@ -1,0 +1,27 @@
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\ChatClient\obj\Debug\App.g.cs
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\obj\Debug\App.g.cs
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache

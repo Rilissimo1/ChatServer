@@ -1,0 +1,5 @@
+C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Yielding\bin\Debug\Yielding.exe
+C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Yielding\bin\Debug\Yielding.pdb
+C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Yielding\obj\Debug\Yielding.csprojResolveAssemblyReference.cache
+C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Yielding\obj\Debug\Yielding.exe
+C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Yielding\obj\Debug\Yielding.pdb
