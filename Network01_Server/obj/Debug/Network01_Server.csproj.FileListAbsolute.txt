@@ -14,3 +14,11 @@ C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\Network0
 C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\Network01_Server\bin\Debug\Network01_Shared.dll
 C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\Network01_Server\bin\Debug\Network01_Shared.pdb
 C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\Network01_Server\obj\Debug\Network01_Server.csprojResolveAssemblyReference.cache
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network01_Server\bin\Debug\Network01_Server.exe.config
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network01_Server\bin\Debug\Network01_Server.exe
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network01_Server\bin\Debug\Network01_Server.pdb
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network01_Server\bin\Debug\Network01_Shared.dll
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network01_Server\bin\Debug\Network01_Shared.pdb
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network01_Server\obj\Debug\Network01_Server.csprojResolveAssemblyReference.cache
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network01_Server\obj\Debug\Network01_Server.exe
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network01_Server\obj\Debug\Network01_Server.pdb

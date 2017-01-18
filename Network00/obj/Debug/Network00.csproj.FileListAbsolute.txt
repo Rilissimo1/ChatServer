@@ -4,3 +4,4 @@ C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Network0
 C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Network00\bin\Debug\Network00.exe
 C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Network00\bin\Debug\Network00.pdb
 C:\Users\ricca\onedrive\documents\visual studio 2015\Projects\Network00\Network00\obj\Debug\Network00.csprojResolveAssemblyReference.cache
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network00\bin\Debug\Network00.exe.config

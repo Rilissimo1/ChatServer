@@ -8,3 +8,8 @@ C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\Network0
 C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\Network01_Shared\obj\Debug\Network01_Shared.csprojResolveAssemblyReference.cache
 C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\Network01_Shared\obj\Debug\Network01_Shared.dll
 C:\Users\ricca\OneDrive\documents\visual studio 2015\Projects\Network00\Network01_Shared\obj\Debug\Network01_Shared.pdb
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network01_Shared\bin\Debug\Network01_Shared.dll
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network01_Shared\bin\Debug\Network01_Shared.pdb
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network01_Shared\obj\Debug\Network01_Shared.csprojResolveAssemblyReference.cache
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network01_Shared\obj\Debug\Network01_Shared.dll
+C:\Users\AIV-03\Desktop\ccs\ChatServer\Network01_Shared\obj\Debug\Network01_Shared.pdb
